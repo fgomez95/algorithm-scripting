@@ -1,5 +1,3 @@
-function greeting():string {
-  return 'hello';
+export default function greeting():string {
+  return 'hello, world';
 }
-
-greeting();
