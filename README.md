@@ -1,0 +1,1 @@
+#### Learn more about this project at [freeCodeCamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
